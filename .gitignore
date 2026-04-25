@@ -1,0 +1,14 @@
+# Foundry
+out/
+cache/
+broadcast/
+lib/
+
+# Frontend
+frontend-real-estate/node_modules/
+frontend-real-estate/dist/
+frontend/node_modules/
+frontend/dist/
+
+# Environment
+.env
